@@ -12,4 +12,5 @@ The site was composed by adhering to the example given. All codes and style step
 Here is an image-part of website that made:
 
 ![View](https://github.com/mhmtnl/websitte-exercise/assets/111579346/24d226a6-a627-423a-b1fc-c82b3aa01177)
---------------------------------challenge1
+
+#challenge1#
